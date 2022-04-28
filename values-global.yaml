@@ -10,7 +10,7 @@ global:
     installPlanApproval: Automatic
 
   imageregistry:
-    account: stefan-bergstein
+    account: sbergste
     hostname: quay.io
     type: quay
 
