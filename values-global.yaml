@@ -16,9 +16,9 @@ global:
 
   git:
     hostname: github.com
-    account: PLAINTEXT
-    username: PLAINTEXT
-    email: SOMEWHERE@EXAMPLE.COM
+    account: stefan-bergstein
+    username: stefan-bergstein
+    email: stefan.bergstein@gmail.com
     dev_revision: main
 
   s3:
